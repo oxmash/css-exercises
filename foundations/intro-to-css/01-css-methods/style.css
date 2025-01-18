@@ -1,0 +1,12 @@
+/* Sstyle.css */
+
+
+
+div {
+  color: white;
+  background-color: red;
+  font-family: "Serif";
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+}

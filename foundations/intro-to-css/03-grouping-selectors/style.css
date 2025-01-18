@@ -1,0 +1,21 @@
+
+
+
+.first-e,.second-e
+{
+font-size: 28px;
+font-family: Helvetica,"Times New Roman",sans-serif;
+
+}
+
+.first-e
+{
+color:white;
+background-color: black;
+}
+
+.second-e
+{
+background-color: yellow;
+}
+
